@@ -1,5 +1,5 @@
 /* Graph Lab
- * Written by Prof. Zhang, Completed by Kathy Tran
+ * Written by Prof. Zhang, Completed by Ryan Monaghan and Kathy Tran
  * Known bugs: none so far
  * Date: April 2021
  * IMPORTANT: Please compile with g++ --std=c++11
