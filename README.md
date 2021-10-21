@@ -1,2 +1,2 @@
 # C-Projects
-A repository for C++ Projects completed
+A repository for some C++ Projects completed at Fordham
